@@ -1,4 +1,4 @@
-import os python2
+import os 
 
 try:
 
